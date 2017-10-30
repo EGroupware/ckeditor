@@ -1,9 +1,0 @@
-{
-	"name": "EGroupware/ckeditor",
-	"description": "Compiled version of CKEditor customized for EGroupware project.",
-	"type": "library",
-	"homepage": "https://github.com/EGroupware/ckeditor",
-	"require": {
-		"php": ">=5.4"
-	}
-}
